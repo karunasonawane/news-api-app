@@ -19,7 +19,7 @@ It helps users stay updated with the latest news from around the world in a **cl
 - 🌐 Uses a **free public News API**
 - ⚡ Fast and lightweight
 - 📱 Easy-to-use UI
-- 
+  
 ---
 
 ## 🛠️ Technologies Used
