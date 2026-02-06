@@ -8,7 +8,8 @@
 ---
 
 ## ✨ About the Project
-The **News API App** is a simple and modern application that fetches **real-time news headlines** using a **free public News API**.  
+
+📰 An **API-based news app** delivering fresh **headlines** anytime, anywhere 🚀📲. It's using a **free public News API**.
 It helps users stay updated with the latest news from around the world in a **clean, fast, and user-friendly interface**.
 
 ---
